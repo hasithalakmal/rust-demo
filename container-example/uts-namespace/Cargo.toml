@@ -1,0 +1,7 @@
+[package]
+name = "uts-namespace"
+version = "0.1.0"
+authors = ["Hasitha Gamage"]
+
+[dependencies]
+libc="0.2.0"

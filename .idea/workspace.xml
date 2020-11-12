@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/BT/GIT/lns-rf-host-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/BT/GIT/new/swms-service-layer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/BT/GIT/rf-host-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/BT/GIT/swms-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/BT/GIT/swms-service-layer" value="PREVIEW" />
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/CAKE/GIT/CE/eng-impl-fnb-oms" value="PREVIEW" />
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/CAKE/GIT/CE/engine" value="PREVIEW" />
+        <entry key="$USER_HOME$/Hasitha/Syscolabs/CAKE/GIT/CE/sco-js" value="PREVIEW" />
+        <entry key="$USER_HOME$/SWMS/develop_old/swms-service-layer" value="PREVIEW" />
+        <entry key="$USER_HOME$/SWMS/temp_develop/swms-service-layer" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
